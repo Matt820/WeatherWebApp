@@ -322,7 +322,7 @@ color: white;
 
 .forecastDay {
   float: left;
-/*   width: 7vw; */
+  width: 7vw; 
   background-color: #;
   text-align: center;
   margin: 15px;
